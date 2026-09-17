@@ -8,7 +8,7 @@ Currently developing a rhythm-based fighting game in GoDot on the side.
 
 My main programming languages are: Java, TypeScript, JavaScript, PHP, and SQL.
 
-!Currently looking for a Summer 2027 Software Engineering Internship!
+Currently looking for a Summer 2027 Software Engineering Internship!
 
 **About Me:**
 * Curiosity fuels me to learn, and make things.
